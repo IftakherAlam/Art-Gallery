@@ -1,0 +1,3 @@
+[submodule "Art_Gallery"]
+    path = Art_Gallery
+    url = https://github.com/exampleuser/art-gallery.git
